@@ -1,0 +1,13 @@
+.Skill-box {
+    display: inline-block;
+    padding: 0 2rem;
+}
+
+.Skill-icon-box {
+    width: 100px;
+    height: 100px;
+}
+
+.Skill p{
+   font-size: 0.73em;
+}

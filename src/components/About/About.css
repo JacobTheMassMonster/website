@@ -1,0 +1,56 @@
+.about {
+    background: url(../../assets/img/reflection.jpeg) no-repeat center center;
+    background-size: cover;
+    height: 90vh;
+    padding: 15vh 15% 0;
+}
+
+.about h1 {
+    color: #ffffffc5;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.about p {
+    padding: 0 10% 1rem;
+    color: rgba(255, 255, 255, 0.807);
+}
+
+.about h1,
+.about .btn {
+    text-transform: uppercase;
+}
+
+.about-flex-container {
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+}
+
+.about-flex-item {
+    align-self: flex-end;
+}
+
+@media only screen and (max-width: 1200px) {
+    .about {
+        padding: 20vh 10% 0;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .about {
+        height: 85vh;
+    }
+    .about h1 {
+        font-size: 8vw;
+    }
+    .about .btn {
+        text-transform: uppercase;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .about .btn {
+        font-size: 0.5rem;
+    }
+}
