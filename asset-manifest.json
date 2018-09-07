@@ -1,6 +1,16 @@
 {
-  "main.css": "static/css/main.478c981c.css",
-  "main.css.map": "static/css/main.478c981c.css.map",
-  "main.js": "static/js/main.22598f9a.js",
-  "main.js.map": "static/js/main.22598f9a.js.map"
+  "main.css": "static/css/main.f3270780.css",
+  "main.css.map": "static/css/main.f3270780.css.map",
+  "main.js": "static/js/main.a281b5d8.js",
+  "main.js.map": "static/js/main.a281b5d8.js.map",
+  "static\\media\\canvas.png": "static/media/canvas.96e98a43.png",
+  "static\\media\\collectionOfGophoter.png": "static/media/collectionOfGophoter.d8ac43ea.png",
+  "static\\media\\face.png": "static/media/face.cd9d98ca.png",
+  "static\\media\\login.png": "static/media/login.65da2dd7.png",
+  "static\\media\\music.png": "static/media/music.6b7b8256.png",
+  "static\\media\\recommendation-inside.png": "static/media/recommendation-inside.0bef15b7.png",
+  "static\\media\\recommendation.png": "static/media/recommendation.a51f127c.png",
+  "static\\media\\reflection.jpeg": "static/media/reflection.c3a398cf.jpeg",
+  "static\\media\\spots.png": "static/media/spots.38c0e717.png",
+  "static\\media\\upload.png": "static/media/upload.60d0c3bc.png"
 }
